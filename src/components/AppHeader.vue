@@ -1,5 +1,11 @@
 <script>
-
+export default {
+    data() {
+        return {
+            
+        }
+    },
+}
 </script>
 
 <template>
@@ -13,6 +19,8 @@
 .cont-flex {
     display: flex;
     align-items: center;
+    padding: 15px 10px;
+    background-color: white;
 }
 
 </style>
